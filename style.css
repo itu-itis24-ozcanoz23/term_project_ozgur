@@ -79,10 +79,14 @@ button:hover {
 }
 
 #word-display {
-  margin: 20px 0;
-  font-size: 24px;
-  font-family: monospace;
-  letter-spacing: 5px;
+  display: flex;
+  flex-direction: row;
+}
+
+#word-display img {
+  width: 100px;
+  border: 4px solid red;
+  visibility: hidden;
 }
 
 #user-input {

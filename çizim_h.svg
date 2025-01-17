@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="çizim_h.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.43494524"
+     inkscape:cx="395.45208"
+     inkscape:cy="590.87898"
+     inkscape:window-width="1104"
+     inkscape:window-height="639"
+     inkscape:window-x="153"
+     inkscape:window-y="35"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g10"
+       transform="translate(21.754982,-22.870953)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:22.9699;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9"
+         width="5.9448719"
+         height="86.235451"
+         x="43.629425"
+         y="127.61803" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:23.0646;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9-1-0"
+         width="8.0005255"
+         height="64.607529"
+         x="164.56966"
+         y="41.545048"
+         transform="matrix(0.01699524,0.99985557,0.99999592,0.00285828,0,0)"
+         inkscape:transform-center-x="-34.430549"
+         inkscape:transform-center-y="16.813805" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:23.0482;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9-6"
+         width="5.8666186"
+         height="87.98214"
+         x="116.95484"
+         y="127.37988" />
+    </g>
+  </g>
+</svg>
