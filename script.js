@@ -24,7 +24,7 @@ resetButton.style.visibility = "hidden";
 function initializeGame() {
   gameRunning = true;
   for (let i = 0; i < letterImages.length; i++) {
-    letterImage = letterImages[i];
+    let letterImage = letterImages[i];
     letterImage.style.visibility = "hidden";
   }
 
@@ -64,7 +64,6 @@ function handleGuess() {
     if (guess === wordToGuess) {
       score = 100;
       gameRunning = false;
-      alert("You won!");
       for (let i = 0; i < wordToGuess.length; i++) {
         const letter = wordToGuess[i];
         guessedLetters.push(letter);
